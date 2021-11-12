@@ -1,9 +1,9 @@
 # Simple sequence alignment in VB6
 Simple sequence alignment in VB6
 
-![screenshot](https://github.com/Gagniuc/Simple-sequence-alignment-in-VB6/blob/main/screenshot/TextAlignDNA%20(3).gif)
+<kbd><img src="https://github.com/Gagniuc/Simple-sequence-alignment-in-VB6/blob/main/screenshot/TextAlignDNA%20(3).gif" /></kbd>
 
-![screenshot](https://github.com/Gagniuc/Simple-sequence-alignment-in-VB6/blob/main/screenshot/TextAlignDNA%20(4).gif)
+<kbd><img src="https://github.com/Gagniuc/Simple-sequence-alignment-in-VB6/blob/main/screenshot/TextAlignDNA%20(4).gif" /></kbd>
 
 # References
 
